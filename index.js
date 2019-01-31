@@ -1,3 +1,8 @@
 // write your code below!
-Function HappyHolidays (String) 
-{ 
+ Function happyHolidays () {
+return "HappyHolidays" ; 
+ } 
+ 
+ Function happyHolidaysTo (name) {
+   return `Happy holidays, ${name}!`
+ }
